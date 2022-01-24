@@ -1,10 +1,10 @@
 const help = (prefix) => {
 	return` Hai👋 Im ${botname}:)
 ┌─❑「 INFO DEVELOPER 」
-│👤 Nama : Haris
-│📃 Github : HARISGANZ
-│▶ Yutub : HANZ々OFC彡
-│💮 Ig : @wong_koclok 
+│👤 Nama : TZYDINBOTZ
+│📃 Github : TZYDIN
+│▶ Yutub : NURDINYT彡
+│💮 Ig : @nurdingans13 
 └─❑
 
 ┌─❑
@@ -191,7 +191,7 @@ const help = (prefix) => {
 
 ║▌│█║▌│ █║▌│█│║▌║
 ║▌│█║▌│ █║▌│█│║▌║
-      「 Bot Wea」
+      「 T Z Y D I N」
 `
 }
 exports.help = help
