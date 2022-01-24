@@ -93,16 +93,16 @@ let ngetik = false
 readG = true 
 readP = true
 publik = true
-Nogopay = 083144394823
-Nodana = 083144394823
-Noovo = 083144394823
-owner = setting.OwnerNumber
-botname = setting.BotName
+Nogopay = VIA QR
+Nodana = 085798328466
+Noovo = VIA QR
+owner = setting.6285798328466
+botname = setting.t z y d i n
 lolkey = setting.HanzKey
 Hanzkey = setting.hanzKey
-ownername = setting.OwnerName
-asutes = 'BOT HANZ OFC'
-creator = 'ʜᴀɴᴢ々ᴏꜰᴄ' // GAK USAH DI UBAH
+ownername = setting.NURDINYT
+asutes = 'BOT NURDUN YT'
+creator = 'NURDIN' // GAK USAH DI UBAH
 fakeimage = fs.readFileSync("./media/thumnail.jpg")
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
 
@@ -543,10 +543,10 @@ teks =
 ❏INFO BOT❏
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 ╔═════════════════⎉
-║冬Nama Bot : ${botname}
-║冬Nama Owner : ${ownername}
-║冬Nomor Owner : ${owner}
-║冬Creator : ${creator}
+║冬Nama Bot : ${T Z Y D I N}
+║冬Nama Owner : ${NURDINYT}
+║冬Nomor Owner : ${6285798328466}
+║冬Creator : ${NURDINYT}
 ║冬Mode : ${publik ? 'Public' : 'Self'}
 ║冬Runtime : ${runtime(process.uptime())}
 ║冬Prefix : Multi
