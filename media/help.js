@@ -2,7 +2,7 @@ const help = (prefix) => {
 	return` Hai👋 Im ${botname}:)
 ┌─❑「 INFO DEVELOPER 」
 │👤 Nama : Haris
-│📃 Github : HARISGANZ
+│📃 Github : TZYDIN
 │▶ Yutub : HANZ々OFC彡
 │💮 Ig : @wong_koclok 
 └─❑
